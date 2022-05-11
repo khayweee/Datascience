@@ -1,0 +1,3 @@
+[submodule "Natural Language Processing/cs224n"]
+	path = Natural Language Processing/cs224n
+	url = git@github.com:khayweee/cs224n.git
