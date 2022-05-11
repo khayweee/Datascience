@@ -1,0 +1,7 @@
+/Code/GloVe
+__pycache__
+#Assignment 3
+
+#Assignment 4
+*.optim
+*.bin
